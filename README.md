@@ -1,7 +1,5 @@
 # Data Integration Pipelines for NYC Payroll Data Analytics
 
-# Data Integration Pipelines for NYC Payroll Data Analytics
-
 ## Project Overview
 
 This project builds an end-to-end data integration pipeline for the **NYC Payroll** dataset using Microsoft Azure services. The goal is to automate the ingestion, transformation, and analysis of payroll data so the City of New York can better understand salary and overtime spending and make this information available for public reporting.
