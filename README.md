@@ -35,7 +35,8 @@ The pipeline uses **Azure Data Factory** to ingest CSV files from **Azure Data L
 
 ## Repository Structure
 
-NYC-PAYROLL-DATA-ANALYTICS-AZURE
+```text
+NYX-Payroll-Data_Analytics-Azure
 ├── architecture/
 │   ├── High_Level_Pipeline_Overview.png
 │   └── NYC_Payroll_DB_Schema.png
@@ -50,6 +51,7 @@ NYC-PAYROLL-DATA-ANALYTICS-AZURE
 ├── infrastructure/        # Infrastructure configuration
 ├── sample_data/           # NYC Payroll sample datasets
 └── README.md
+```
 
 ## Learning Outcomes
 
